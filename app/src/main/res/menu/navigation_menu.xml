@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nm_list"
+        android:icon="@drawable/ic_action_list"
+        android:title="List" />
+    <item
+        android:id="@+id/nm_info"
+        android:icon="@drawable/ic_action_info"
+        android:title="Info" />
+    <item
+        android:id="@+id/nm_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="Search" />
+</menu>
